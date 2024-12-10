@@ -8,7 +8,7 @@ Learn how to best approach globalization and localization in .NET.
 
   
 # Globalization and Internationalization in .NET:
-## Module 1:
+## Module 1 - Introducing Globalization and Internationalization:
 *Globalization*: Make it possible to your application to support multiple languages and cultures. (application configuration) <br>
 *Localization* : Customize and translate your files and text for specific Culture. (resx files and content)
 Culture = Language + region?  and any other properties that rely on it like *Number Format*<br>
@@ -20,13 +20,25 @@ Library: `System.Globalization`
 - .NET core support Cultural configuration per thread.
 - Use CultureInfo.InVariantCulture to parse or serilize data.
 
-## Module 2:
+## Module 2 - Working with Numbers:
 ![image](https://github.com/user-attachments/assets/376eb9ee-e037-4b38-99ea-8cc6b312db37)
 
 ##### Notes:
 - You can use *Numberstyles* for parsing numbers (ex numbers with currency [$100 || 100 kr])
 - You can use *RegionInfo* to get data like distance or units
   
-## Module 3:
+## Module 3 - Working with Dates:
+When to use Datetime ONLY without time zone info(DateTimeOffset):
+![image](https://github.com/user-attachments/assets/8d7e7406-a4b2-448a-8547-3086aebffa88)
 
+![image](https://github.com/user-attachments/assets/03de1456-87ba-48ab-afee-c4035ddf0340)
+![image](https://github.com/user-attachments/assets/54211364-c0ce-4c03-8b34-2c96d6965a25)
 
+For custom format use `DateTimeOffset.Parse` and `DateTimeOffset.TryParse`.
+Unix `Timestamp` : Number of seconds that have been since 1970-01-01-00-00-00.
+
+##### Notes:
+- It is better to store data on UTC time zone at the system and customize it for your system.
+- You could use IFormatProvidor at `DateTimeOffset.Parse(dateText,"MMMM",*IFormatProvidoer*)` to print the month based on a specific culture.
+
+## Module 3 - Working with Strings
