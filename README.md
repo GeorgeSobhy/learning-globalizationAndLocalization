@@ -22,3 +22,11 @@ Library: `System.Globalization`
 
 ## Module 2:
 ![image](https://github.com/user-attachments/assets/376eb9ee-e037-4b38-99ea-8cc6b312db37)
+
+##### Notes:
+- You can use *Numberstyles* for parsing numbers (ex numbers with currency [$100 || 100 kr])
+- You can use *RegionInfo* to get data like distance or units
+  
+## Module 3:
+
+
