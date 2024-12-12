@@ -10,7 +10,7 @@ Learn how to best approach globalization and localization in .NET.
 # Globalization and Internationalization in .NET:
 ## Module 1 - Introducing Globalization and Internationalization:
 *Globalization*: Make it possible to your application to support multiple languages and cultures. (application configuration) <br>
-*Localization* : Customize and translate your files and text for specific Culture. (resx files and content)
+*Localization* : Customize and translate your files and text for specific Culture. (resx files and content)<br>
 Culture = Language + region?  and any other properties that rely on it like *Number Format*<br>
 
 
@@ -59,4 +59,9 @@ watch the module videos :)
 
 # Globalization and Internationalization in ASP.NET Core:
 ## Module 2 - Working with Cultures:
+The order that application uses to get culture:
+![image](https://github.com/user-attachments/assets/b79d5fe1-2458-4a93-be63-3556edbc8d44)
 
+How to create custom Culture provider:
+![image](https://github.com/user-attachments/assets/afb687d7-9f21-4a28-905d-d563248be7df)
+check [Microsoft Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization/select-language-culture?view=aspnetcore-9.0)
