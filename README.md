@@ -42,3 +42,14 @@ Unix `Timestamp` : Number of seconds that have been since 1970-01-01-00-00-00.
 - You could use IFormatProvidor at `DateTimeOffset.Parse(dateText,"MMMM",*IFormatProvidoer*)` to print the month based on a specific culture.
 
 ## Module 3 - Working with Strings
+`String.Equal()` depends on binaries of the words.
+`String.Compare()` depends on system *culture*.
+`Array.Sort()` uses compare method, So culture matters.
+
+![image](https://github.com/user-attachments/assets/e95dc93e-d36f-4d56-a65f-a3a9b9a637a9)
+
+##### Notes:
+- Don't use `InvariantCulture` when you compare two strings.
+- You could use *Ordinal* comparing or *InvariantCulture* to satisfy security considerations.
+
+## Module 4 - 
