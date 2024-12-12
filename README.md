@@ -52,4 +52,6 @@ Unix `Timestamp` : Number of seconds that have been since 1970-01-01-00-00-00.
 - Don't use `InvariantCulture` when you compare two strings.
 - You could use *Ordinal* comparing or *InvariantCulture* to satisfy security considerations.
 
-## Module 4 - 
+## Module 4 - Globalization and Internationalization in ASP.NET Core
+ ![image](https://github.com/user-attachments/assets/0d00875d-7a57-4f45-a4b9-1e1cf2b26aa6)
+watch the module videos :)
