@@ -55,3 +55,8 @@ Unix `Timestamp` : Number of seconds that have been since 1970-01-01-00-00-00.
 ## Module 4 - Globalization and Internationalization in ASP.NET Core
  ![image](https://github.com/user-attachments/assets/0d00875d-7a57-4f45-a4b9-1e1cf2b26aa6)
 watch the module videos :)
+
+
+# Globalization and Internationalization in ASP.NET Core:
+## Module 2 - Working with Cultures:
+
