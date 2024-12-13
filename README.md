@@ -65,3 +65,14 @@ The order that application uses to get culture:
 How to create custom Culture provider:
 ![image](https://github.com/user-attachments/assets/afb687d7-9f21-4a28-905d-d563248be7df)
 check [Microsoft Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization/select-language-culture?view=aspnetcore-9.0)
+
+
+
+
+Extra points:
+- Use `IStringLocalizer` for general localization needs throughout your application.
+- Use `IViewLocalizer` for localizing Razor views.
+- Use `IHtmlLocalizer` when you need to include HTML content in localized strings.
+
+Extra resources:
+(ASP.NET 8 - Multilingual Application with Single Resx File)[https://www.c-sharpcorner.com/article/asp-net-8-multilingual-application-with-single-resx-file/]
