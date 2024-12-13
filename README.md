@@ -75,4 +75,4 @@ Extra points:
 - Use `IHtmlLocalizer` when you need to include HTML content in localized strings.
 
 Extra resources:
-(ASP.NET 8 - Multilingual Application with Single Resx File)[https://www.c-sharpcorner.com/article/asp-net-8-multilingual-application-with-single-resx-file/]
+[ASP.NET 8 - Multilingual Application with Single Resx File](https://www.c-sharpcorner.com/article/asp-net-8-multilingual-application-with-single-resx-file/)
