@@ -66,6 +66,12 @@ How to create custom Culture provider:
 ![image](https://github.com/user-attachments/assets/afb687d7-9f21-4a28-905d-d563248be7df)
 check [Microsoft Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization/select-language-culture?view=aspnetcore-9.0)
 
+![image](https://github.com/user-attachments/assets/34740cc2-4b9c-4196-8ea2-9f7a6a8ee328)
+
+
+
+
+
 
 
 
