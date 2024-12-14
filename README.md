@@ -66,12 +66,19 @@ How to create custom Culture provider:
 ![image](https://github.com/user-attachments/assets/afb687d7-9f21-4a28-905d-d563248be7df)
 check [Microsoft Documentation](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization/select-language-culture?view=aspnetcore-9.0)
 
+## Module 3 - Using Resource Files:
 ![image](https://github.com/user-attachments/assets/34740cc2-4b9c-4196-8ea2-9f7a6a8ee328)
 
+## Module 4 - Working with String Localizers:
+![image](https://github.com/user-attachments/assets/2764c5e5-4d61-4c39-904f-11c2ab6ba68e)
 
+using *Localizer* with parameters
+![image](https://github.com/user-attachments/assets/6e5be575-7a7b-4678-a935-b0643ec0b649)
 
-
-
+Implementing custom Localizer:
+![image](https://github.com/user-attachments/assets/f0f1e51c-e208-4a17-b724-105e40966ed6)
+Example:
+![image](https://github.com/user-attachments/assets/2be30faf-5416-4b3a-b69b-ba127677c532)
 
 
 
