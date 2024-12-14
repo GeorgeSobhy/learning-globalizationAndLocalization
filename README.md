@@ -4,8 +4,8 @@ Learn how to best approach globalization and localization in .NET.
 ### Resources that I studied:<br>
 - [Globalization and Internationalization in .NET - Pluralsight](https://app.pluralsight.com/library/courses/dot-net-6-globalization-internationalization/table-of-contents)
 - [Globalization and Internationalization in ASP.NET Core - Pluralsight](https://app.pluralsight.com/library/courses/asp-dot-net-core-6-globalization-internationalization/table-of-contents)
-- [Globalization and Localization (Multi-Language) In .Net 5 (Core) -Youtube](https://www.youtube.com/watch?v=PyCGEO4b6F0&list=PL62tSREI9C-cJtB90kxb76SDCpXKuOfUH)
-
+- [Globalization and Localization (Multi-Language) In .Net 5 (Core) - Youtube](https://www.youtube.com/watch?v=PyCGEO4b6F0&list=PL62tSREI9C-cJtB90kxb76SDCpXKuOfUH)
+- [Json Based Localization In .Net 6 (Core) - Youtube](https://www.youtube.com/playlist?list=PL62tSREI9C-e6tydoksWUdUEginpmHmoa)
   
 # Globalization and Internationalization in .NET:
 ## Module 1 - Introducing Globalization and Internationalization:
