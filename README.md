@@ -80,7 +80,15 @@ Implementing custom Localizer:
 Example:
 ![image](https://github.com/user-attachments/assets/2be30faf-5416-4b3a-b69b-ba127677c532)
 
+To localize data annotation attributes which has error message 
+![image](https://github.com/user-attachments/assets/92514e1c-a52e-4cb1-af53-179279bd2167)
+![image](https://github.com/user-attachments/assets/5d24b916-3b95-43e8-9358-971ec0123f58)
 
+To localize data annotation attributes with built in error messages
+![image](https://github.com/user-attachments/assets/ac713418-3eef-47bf-ab11-8a6e27b1b2de)
+
+To localize user defined data annotation attributes
+watch 37th video ;)
 
 Extra points:
 - Use `IStringLocalizer` for general localization needs throughout your application.
